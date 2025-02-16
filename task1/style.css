@@ -1,0 +1,14 @@
+.userContainer{
+    background-color: navy;
+    color: white;
+    width: fit-content;
+}
+button{
+    margin: 10px;
+    background-color: navy;
+    color: white;
+    cursor: pointer;
+}
+.count{
+    font-size: 100px;
+}
